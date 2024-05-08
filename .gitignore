@@ -1,0 +1,22 @@
+# Operating system files
+.DS_Store            # macOS folder attribute files
+Thumbs.db            # Windows image file cache
+desktop.ini          # Windows folder configuration files
+
+# Editor directories and files
+.vscode/             # Visual Studio Code settings
+.idea/               # JetBrains IDE settings
+*.sublime-workspace  # Sublime Text project settings
+
+# Node modules (if you are using Node.js)
+node_modules/
+
+# Logs
+*.log
+*.dat
+*.out
+*.pid
+*.seed
+*.fifo
+
+# Optional: add any other files or directories that are specific to your workflow
